@@ -1,5 +1,5 @@
 # Fake News Detection System
-This project is a small course project for my bachelor's degree.
+This project is a course project for my bachelor's degree.
 
 ## Abstract
 Fake news are becoming a highly relevant topic in modern society,
